@@ -1,4 +1,4 @@
-# Base Template Project
+# Python Project Template
 This is the base template for python projects. It contains Logs, Cli arguments and read ini config.
 
 ## Installation
@@ -6,7 +6,7 @@ This is the base template for python projects. It contains Logs, Cli arguments a
 
 ## TODO
 
-- [] work with Cli arguments
-- [] read config file
-- [] setup loggin system
-- [] write examples of usage
+- [ ] work with Cli arguments
+- [ ] read config file
+- [ ] setup loggin system
+- [ ] write examples of usage

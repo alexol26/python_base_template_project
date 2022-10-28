@@ -1,14 +1,16 @@
+#!/usr/bin/env python
 """Description of the project
 
 Input data:
 Output data:
 """
 
+from utils import utils
 
 # --------------------------------------------------
 def main():
     """Description of function"""
-    pass
+    utils.func()
 
 
 # --------------------------------------------------
