@@ -5,12 +5,14 @@ Input data:
 Output data:
 """
 
-from utils import utils
+from utils import cli
 
 # --------------------------------------------------
 def main():
     """Description of function"""
-    utils.func()
+
+    cli_args = cli.get_args()
+    print(cli_args)
 
 
 # --------------------------------------------------
